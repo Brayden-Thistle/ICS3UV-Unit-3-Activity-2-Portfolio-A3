@@ -11,7 +11,7 @@ centimeters = Number(prompt("Can you give me a random length in centimeters?"));
 
 const answer = centimeters / 2.54
 
-console.log( centimeters + " centimeters is " + (centimeters / 2.54) + " inches.");
+console.log( centimeters + " centimeters is " + answer + " inches.");
 
 console.log("\nDone");
 
